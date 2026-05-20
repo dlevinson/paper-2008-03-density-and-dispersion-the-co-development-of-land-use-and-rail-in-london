@@ -1,0 +1,9 @@
+layer,package_shp,components,dbf_records
+Borough,data/gis/finalized_fixed_networks_feb_8_07/Borough.shp,.dbf; .prj; .sbn; .sbx; .shp; .shx; .xml,33
+DLR_links,data/gis/finalized_fixed_networks_feb_8_07/DLR_links.shp,.dbf; .prj; .sbn; .sbx; .shp; .shx,83
+DLR_stations,data/gis/finalized_fixed_networks_feb_8_07/DLR_stations.shp,.dbf; .prj; .sbn; .sbx; .shp; .shx,42
+LU_stops_ticks,data/gis/finalized_fixed_networks_feb_8_07/LU_stops_ticks.shp,.dbf; .prj; .sbn; .sbx; .shp; .shx,356
+NR_lines,data/gis/finalized_fixed_networks_feb_8_07/NR_lines.shp,.dbf; .prj; .sbn; .sbx; .shp; .shx; .xml,468
+NR_stations,data/gis/finalized_fixed_networks_feb_8_07/NR_stations.shp,.dbf; .prj; .sbn; .sbx; .shp; .shx; .xml,355
+UG_links,data/gis/finalized_fixed_networks_feb_8_07/UG_links.shp,.dbf; .prj; .sbn; .sbx; .shp; .shx,374
+Water,data/gis/finalized_fixed_networks_feb_8_07/Water.shp,.dbf; .prj; .sbn; .sbx; .shp; .shx; .xml,4

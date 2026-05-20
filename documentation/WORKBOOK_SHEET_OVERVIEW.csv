@@ -1,0 +1,35 @@
+package_relative_path,sheet,rows,columns,note
+data/panel_and_model_workbooks/LondonCoevolution7.xls,,,,live xlrd inspection: Sheet1(694x148); Sheet2(34x3); NeighborData(34x12)
+data/panel_and_model_workbooks/PopulationAndDensity.xls,,,,live xlrd inspection: Population and Density(54x38)
+data/panel_and_model_workbooks/PopulationArea.xls,,,,live xlrd inspection: Notes(109x6); borough sheets such as Barking and Dagenham/Barnet/Bexley/etc. (22x2 each)
+data/panel_and_model_workbooks/PopDensVsStationDens.xls,,,,live xlrd inspection: Model(83x6)
+data/panel_and_model_workbooks/StationsPerPerson.xls,,,,live xlrd inspection: Data(84x17); Ranks(39x13)
+data/panel_and_model_workbooks/Distances.xls,,,,live xlrd inspection: Pop Density(23x38); Sheet4(21x9); Sheet1(21x9); Data(38x34); Tubes by area(694x12); Matrices-tubedens(117x40); Coordinates(117x40); Matrices-popdens(76x56)
+data/panel_and_model_workbooks/ModelByStation.xls,,,,live xlrd inspection: Tube by Year(364x34); Stations by Year(393x51); TableLookup1(37x56); CumulativeRail(92x87); CumulativeTube(83x65)
+data/panel_and_model_workbooks/tube-export.xls,,,,live xlrd inspection: tube-export.csv(694x76)
+data/borough_analysis_workbooks/London_analysis2.xls,,,,live xlrd inspection: Borough_pop_year(6867x9); Underground_stations(341x7); underground_lines(474x13); National_rail_links(614x13); National_Rail_stops(331x9); DLR_stops(41x9); DLR_lines(94x10); All_Analysis(37x5)
+data/borough_analysis_workbooks/London_analysis2_expanded_time_columns.xls,,,,live xlrd inspection: Borough_pop_year(6867x9); Underground_stations(341x29); underground_lines(474x35); National_rail_links(614x35); National_Rail_stops(331x31); DLR_stops(41x31); DLR_lines(94x32); All_Analysis(34x5)
+data/borough_analysis_workbooks/Summary_by_year.xls,,,,live xlrd inspection: Underground Stations(137x10); underground length(149x10); National_rail_station(146x3); National_rail_lines(140x3); DLR_stations(11x3); DLR_length(10x3)
+data/network_workbooks/LondonUndergroundDatabase.xls,,,,live xlrd inspection: London Underground line sheets and station fields
+data/network_workbooks/LondonUndergroundDatabase-Oct162006.xls,,,,live xlrd inspection: Lines plus Bakerloo/Central/Circle/District/East London/Hammersmith and City/Jubilee/Metropolitan/Northern/Piccadilly/Victoria sheets
+data/network_workbooks/LondonUndergroundDatabase-Oct172006.xls,,,,live xlrd inspection: Lines plus London Underground line sheets and station fields
+data/network_workbooks/RailLinesByLine.xls,,,,"live xlrd inspection: List of Lines(34x4) plus line-level sheets including Hertford Loop, Gospel Oak-Barking, North London, Northern City, Lea Valley, Thameslink, Watford DC"
+data/network_workbooks/Railway Stations-Oct262006.xls,,,,live xlrd inspection: List of London railway stations(461x16)
+data/network_workbooks/Railway Stations-Oct302006.xls,,,,live xlrd inspection: List of London railway stations(559x17)
+data/network_workbooks/Railway Stations-Nov012006.xls,,,,live xlrd inspection: Stations by AD(46x2); Net by Year & AD(42x20); Opening by Year & AD(90x87); Closing by Year & AD(71x38); Data for S-curve(415x19); List of London railway stations(559x17)
+data/network_workbooks/Railway-Links.xls,,,,live xlrd inspection: Surface(447x17); Tube(364x7)
+data/network_workbooks/Railway-Links-2.xls,,,,live xlrd inspection: Surface(617x44); Tube(364x7)
+data/network_workbooks/LU-NetworkEvolution.xls,,,,live xlrd inspection: London Maps(752x12); London Underground Stations(368x16)
+data/network_workbooks/NR-NetworkEvolution.xls,,,,live xlrd inspection: LineNames(71x2); Surface Lines(773x16); Surface Links(710x21); Surface Nodes(327x58); Link Names(327x30); UK Railway Stations(2634x10); Post Code(10108x7); Multimap Vertical(327x14); Closed Stations(102x7); List of London Railway Stations(559x13)
+data/network_workbooks/DLR-NetworkEvolution.xls,,,,live xlrd inspection: DLR Data(138x18)
+data/network_workbooks/DLR/DLR-data.xls,,,,live xlrd inspection: Sheet1(58x15)
+data/network_workbooks/source_extracts/WikipediaWorkbook.xls,,,,live xlrd inspection: Sheet1(327x55)
+data/network_workbooks/source_extracts/wiki-listoflondonrailways.xls,,,,live xlrd inspection: Page(4966x11); UK Railway Stations(2634x10); Surface Nodes(327x19)
+data/network_workbooks/source_extracts/Workbook6.xls,,,,live xlrd inspection: Sheet1(327x59)
+data/employment_land_use_workbooks/LondonEmployment.xls,,,,live xlrd inspection: Greater London Employment(50x3); Sheet2(19x3); City of London Employment(70x35); Sheet3(46x11)
+data/employment_land_use_workbooks/LondonEmployment2003.xls,,,,live xlrd inspection: Area Statistics(42x14); LondonEmployment2003.rtf(47x13)
+data/employment_land_use_workbooks/ResidentWorkersByIndustry.xls,,,,"live xlrd inspection: borough worker-industry sheets, generally 9x8, with City of London 15x8"
+data/employment_land_use_workbooks/ResidentWorkersByIndustry (version 1).xls,,,,"live xlrd inspection: borough worker-industry sheets, generally 9x9, with City of London 15x9"
+data/employment_land_use_workbooks/UALADtables_Sept05.xls,,,,live xlrd inspection: regional sheets including London(60x22)
+data/employment_land_use_workbooks/source_tables/GLUDforLocalAuthoritiesExcel104Kb_id1146087.xls,,,,live xlrd inspection: ODPM_GLUD_Local_Auth_Stats_sqm(357x15)
+data/employment_land_use_workbooks/source_tables/GLUDforCensusWardsExcel1837Kb_id1146086.xls,,,,live xlrd inspection: ODPM_GLUD_CAS_Ward_Stats_sqm(7972x18)
