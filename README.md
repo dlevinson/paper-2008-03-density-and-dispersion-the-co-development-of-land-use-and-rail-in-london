@@ -1,5 +1,9 @@
 # Density And Dispersion: The Co-Development Of Land Use And Rail In London
 
+## Contribution
+
+This paper disentangles the long-running question of whether rail investment leads urban development or follows it. Panel evidence from London boroughs between 1871 and 2001 identifies a positive feedback between rail-station density and population density, while also revealing distinct central-city, suburban, Underground, and surface-rail effects.
+
 This folder is a cleaned public-upload package for `paper-2008-03`.
 
 ## Citation
